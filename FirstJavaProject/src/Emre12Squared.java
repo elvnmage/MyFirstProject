@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Emre12Squared {
    public static void main(String[] args) { 
 
-     System.out.print("\nFirst ten Lucas a numbers: "); 
+     System.out.print("\n Numbers: "); 
      int n = 3;
      int n1 = 2, n2 = 1, n3;
         if (n > 1){

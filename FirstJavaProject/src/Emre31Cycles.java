@@ -2,14 +2,6 @@
 //user should input amount of items he/she wants to have in array) and count amount of number “100” in that array. 
 //If there is no even 1 “100" please inform user about that.
 
-import java.util.Random;
-
-
-public class Emre31Cycles {
-
-
-    private static double[] anArray;
-
     import java.util.Random;
 
 
