@@ -18,6 +18,29 @@ public static void main (String args[]) {
 		int sum1 = 10+10;
 		int sum2 = 20-10;
 		int sum3 = sum1-sum2;
-	System.out.println (sum3);
+		
+		int sum10 = 100*2;
+		int sum11 = sum10 - 50;
+		int sum12 = sum1+sum2;
+		int sum13 = sum11+sum12;
+		
+		  int value = 100;
+	        int res = value % 10; //boldukten sonra artan sayi
+
+	        int test = 5;
+	        		++test;// ++ makes bir sayi fazlasi
+	        		
+	        		int falan = 12;
+	        		int filan = ++falan*2 ;
+	        		
+	        		int p = 50;
+	        		
+	        		int num1 = 4;
+	        		int num2 = 8;
+	        		num2 += num1; // num2 = num2 + num1;
+
+	        		// num2 is 12 and num1 is 4
+	        
+	System.out.println (num2);
 }
 }
