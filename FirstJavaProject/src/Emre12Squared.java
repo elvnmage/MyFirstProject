@@ -6,7 +6,9 @@ Your printout should be following:
 9
 16
 25 */
+
 import java.util.Scanner;
+
 public class Emre12Squared {
    public static void main(String[] args) { 
 
