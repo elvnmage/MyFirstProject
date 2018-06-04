@@ -3,7 +3,7 @@
  * it is a feature” 5 times, each line should be printed from new string 
  */
 
-class Homework11 // Version 0
+class Homework11 // Version 0 - Not ideal
 
 {
 
