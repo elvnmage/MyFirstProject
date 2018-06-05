@@ -1,22 +1,26 @@
-//import java.util.Random;
+//Task horse
 
 public class Homework31Horse {
+    
+public static void main (String [] args)
 
-public static void main (String [] args) {
-	
-	int a[]=new int[5];//declaration and instantiation  
-	a[0]=10;//initialization  
-	a[1]=20;  
-	a[2]=70;  
-	a[3]=40;  
-	a[4]=50;  
-	  
-	//printing array  
-	for(int i=0;i<a.length;i++)//length is the property of array  
-	System.out.println(a[i]);
-	
-	
-//	int[ ] arr = new int[5];
-}
-	
+    {
+        int Array [] = new int [100];
+        
+        for (int i = 0; i< Array.length; i++) 
+        
+        {
+            Array [i] = (int) (Math.random() * 150 );
+            
+        }
+        
+        for (int j = 0; j < Array.length; j++) {
+            
+            System.out.println("Random Number is "+Array[j]);
+            
+        }
+    
+    
+    }
+
 }
