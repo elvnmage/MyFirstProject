@@ -1,4 +1,4 @@
-//Task horse
+//Task 3.1 version horse
 
 public class Homework31Horse {
     
@@ -7,16 +7,16 @@ public static void main (String [] args)
     {
         int Array [] = new int [100];
         
-        for (int i = 0; i< Array.length; i++) 
+        for (int x = 0; x< Array.length; x++) 
         
         {
-            Array [i] = (int) (Math.random() * 150 );
+            Array [x] = (int) (Math.random() * 150 );
             
         }
         
-        for (int j = 0; j < Array.length; j++) {
+        for (int y = 0; y < Array.length; y++) {
             
-            System.out.println("Random Number is "+Array[j]);
+            System.out.println("Random Number is "+Array[y]);
             
         }
     
